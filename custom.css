@@ -1,5 +1,9 @@
-h1 {
+.slider-heading {
     font-size: 5vw;
+}
+
+.slider-text {
+    font-size: 3vw;
 }
 
 h2 {
@@ -19,8 +23,8 @@ h2 {
 }
 
 .accordion {
-    margin-left: 6rem;
-    margin-right: 6rem;
+    margin-left: 2.5em;
+    margin-right: 2.5rem;
 }
 
 .end-section {
