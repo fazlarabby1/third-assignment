@@ -2,6 +2,10 @@ h1 {
     font-size: 5vw;
 }
 
+h2 {
+    font-size: 2rem;
+}
+
 .slider-img:after {
     content: "";
     display: block;
@@ -13,3 +17,30 @@ h1 {
     background: black;
     opacity: 0.4;
 }
+
+.accordion {
+    margin-left: 6rem;
+    margin-right: 6rem;
+}
+
+.end-section {
+    padding-top: 3rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+.social {
+    padding-bottom: 3rem;
+}
+
+.fill {
+    color: #FBBF24;
+}
+
+/* .empty {
+    color: white;
+    border: 1px solid;
+    border-color: #FBBF24;
+} */
